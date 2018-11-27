@@ -1,0 +1,16 @@
+server.port: 8080
+
+holiday:
+        vendors:
+        -
+                id:  Vendor1
+                name:  Vendor 1
+                holidays: 2018-02-01,2018-01-15,2018-07-03,2018-05-25,2018-08-28,2018-12-25
+        -
+                id:  Vendor2
+                name:  Vendor 2
+                holidays: 2018-02-19,2018-06-21,2018-07-08,2018-08-19
+        -
+                id:  Vendor3
+                name:  Vendor 3
+                holidays: 2018-02-01,2018-01-15,2018-02-19,2018-07-24,2018-08-22,2018-11-19
